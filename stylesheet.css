@@ -1,0 +1,98 @@
+html {
+   
+        color: #D8D8D8;
+        background-image: url("http://i22.photobucket.com/albums/b321/libelle_/FF_Menu_004.png");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        cursor:url("http://i22.photobucket.com/albums/b321/libelle_/mouse.gif"), pointer;
+        font-family: Lucida Console;
+    }
+ h2 {
+    position: fixed;
+    top: 40px;
+    font-size: 30px;
+    border: 2px solid #dfdfdf;
+    margin-left: 300px;
+    padding: 5px;
+}
+#contact-info {
+    position: fixed;
+    margin: 100px 1225px 500px 300px;
+    font-size: 20px;
+    border: 2px dashed #dfdfdf;
+    padding: 5px;
+}
+#menu {
+    position: fixed;
+    top: 5px;
+    left: 1400px;
+    clear: left;
+    font-size: 30px;
+}
+a {
+    color: #D8D8D8;
+    text-decoration: none;
+}
+
+a:hover {
+ cursor: url("http://i22.photobucket.com/albums/b321/libelle_/mouse.gif"), progress !important;
+}
+#education-list {
+    font-size: 20px;
+    position: fixed;
+    bottom: 100px;
+    left: 40px;
+}
+span {
+    color: #FF0066;
+}
+#objective {
+    font-size: 20px;
+    text-align: center;
+    margin: 600px 0 0 0;
+}
+#abilities {
+    font-size: 15px;
+    position: fixed;
+    bottom: 300px;
+    left: 40px;
+    right: 40px; ;
+}
+img {
+    height: 200px;
+    width: 200px;
+    box-shadow: rgba(0,0,0,0.2) 10px 10px;
+}
+#title {
+   margin: 500px 290px 250px 50px;
+   font-size: 25px;
+   position: fixed;
+}
+.main {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 600px;
+}
+#experience {
+    font-size: 15px;
+    position: fixed;
+    bottom: 125px;
+    left: 40px;
+    right: auto;
+    float: left;
+    display: inline;
+}
+#abilities {
+    font-size: 20px;
+    bottom: 100px;
+    left: 40px;
+    position: fixed;
+}
+#courses {
+    font-size: 17px;
+    position: fixed;
+    bottom: 70px;
+    left: 40px;
+    right: 40px; ;
+}
